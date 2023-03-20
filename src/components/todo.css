@@ -1,0 +1,16 @@
+#delete {
+    display: flex;
+    margin: auto;
+    width: fit-content;
+}
+
+#delicon {
+    padding: 5px;
+    margin: auto;
+    width: fit-content;
+    cursor: pointer;
+}
+
+#delall{
+    cursor:pointer;
+}
